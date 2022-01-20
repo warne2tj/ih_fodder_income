@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ih_fodder_income/static/css/main.073c9b0a.css",
-    "main.js": "/ih_fodder_income/static/js/main.8136286a.js",
+    "main.js": "/ih_fodder_income/static/js/main.4584a112.js",
     "static/js/787.d781e275.chunk.js": "/ih_fodder_income/static/js/787.d781e275.chunk.js",
     "static/media/logo.svg": "/ih_fodder_income/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ih_fodder_income/index.html",
     "main.073c9b0a.css.map": "/ih_fodder_income/static/css/main.073c9b0a.css.map",
-    "main.8136286a.js.map": "/ih_fodder_income/static/js/main.8136286a.js.map",
+    "main.4584a112.js.map": "/ih_fodder_income/static/js/main.4584a112.js.map",
     "787.d781e275.chunk.js.map": "/ih_fodder_income/static/js/787.d781e275.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8136286a.js"
+    "static/js/main.4584a112.js"
   ]
 }
